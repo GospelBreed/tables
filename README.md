@@ -24,7 +24,7 @@ This is a Table Template
     <p>
         This is not meant to be a comprehensive list of all the teams, just a sampling from around the United States. I focused on the ones that I though had cools names.    
     </p>
-    <table border="1">
+    <table border="2">
         <tr>
             <th>Team Name</th>
             <th>Location</th>
